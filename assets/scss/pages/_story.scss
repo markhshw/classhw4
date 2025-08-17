@@ -1,0 +1,25 @@
+
+.secion-lined{
+    border-bottom: 1px solid var(--neutral-300);
+}
+
+.history-desc{
+    border-left: 1px solid var(--neutral-900);
+    padding-left: 8px;
+}
+
+.history-list{
+    list-style-type: disc;
+    padding-left: 24px;
+}
+
+.concept-item{
+    padding-left: 12px;
+    border-left: 3px solid var(--neutral-300);
+}
+
+.bi{
+    padding-right: 8px;
+    vertical-align: bottom;
+}
+
